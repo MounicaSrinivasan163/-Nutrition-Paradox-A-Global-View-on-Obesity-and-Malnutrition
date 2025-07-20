@@ -36,7 +36,7 @@ Two separate datasets were analyzed:
 | Column Name     | Type       | Description                                                                 |
 |-----------------|------------|-----------------------------------------------------------------------------|
 | `Year`          | Continuous | Year of data collection                                                     |
-| `Gender`        | Categorical| Gender group (`Male`, `Female`, `Both`)         n                           |
+| `Gender`        | Categorical| Gender group (`Male`, `Female`, `Both`)                                     |
 | `Mean_Estimate` | Continuous | Crude % estimate of population                                              |
 | `LowerBound`    | Continuous | Lower bound of confidence interval                                          |
 | `UpperBound`    | Continuous | Upper bound of confidence interval                                          |
