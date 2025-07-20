@@ -7,13 +7,17 @@ This project explores global trends in adult **obesity (BMI ≥ 30)** and **maln
 ## 📂 Dataset Overview
 
 - **Source**:
+  
       For Obesity:
             1.	https://ghoapi.azureedge.net/api/NCD_BMI_30C – Obesity among adults (BMI ≥ 30)
+  
             2.	https://ghoapi.azureedge.net/api/NCD_BMI_PLUS2C – Obesity/Overweight among children 
 
       For Malnutrition:
             3.	https://ghoapi.azureedge.net/api/NCD_BMI_18C – Underweight in adults (BMI < 18.5)
+  
             4.	https://ghoapi.azureedge.net/api/NCD_BMI_MINUS2C – Thinness in children
+  
 - **Fearture Engineering**: Feature Engineering is done and have concatenated the 4 datasets into 2 datasets df_obesity,df_malnutrition
 - **Rows**: 27,720 in each
 - **Granularity**: Country × Year × Gender × Age group
