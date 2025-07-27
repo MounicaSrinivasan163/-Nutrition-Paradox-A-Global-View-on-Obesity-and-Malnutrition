@@ -1,10 +1,10 @@
-# 🌍 Global Obesity & Malnutrition Analysis
+# 🌍 Global Obesity & Malnutrition Analysis :
 
 This project explores global trends in adult **obesity (BMI ≥ 30)** and **malnutrition (BMI < 18.5)** for adults and obesity **BMI-PLUS2C** and malnutrition **MINUS 2C** for child/adolescents using WHO datasets. The analysis includes feature engineering, regional and temporal comparisons, level classifications, and visualizations across gender, age, and geography.
 
 ---
 
-## 📂 Dataset Overview
+## 📂 Dataset Overview:
 
 - **Source**:
   
